@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+# This file is to prevent the crawling and indexing of certain parts
 User-agent: *
 Disallow:
